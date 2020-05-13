@@ -5,4 +5,3 @@
 _Réalisé par Benjamin Cart avec le soutien d'[Erwan Roussel](https://github.com/dimensi0n)
 pour [Nikelse](https://github.com/Nikelse)._
 
- <span style="color: #fb4141">texte à colorer</span>
